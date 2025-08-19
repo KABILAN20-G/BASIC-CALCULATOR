@@ -22,3 +22,7 @@ This project demonstrates the use of Swing components and event handling to crea
 - **GUI Framework:** Swing  
 
 ---
+
+## 📸 Screenshot
+<img width="1918" height="874" alt="Screenshot 2025-08-19 114447" src="https://github.com/user-attachments/assets/3790801c-abc9-468a-9bc0-2d6acde031b1" />
+
